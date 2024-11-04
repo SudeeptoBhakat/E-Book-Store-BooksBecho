@@ -1,5 +1,7 @@
 # Online Bookstore
 
+logo.png
+
 ## Description
 
 This project is an online bookstore application, "BooksBecho," developed using PHP (CodeIgniter 4), HTML, CSS, and MySQL. The application allows users to browse, add to cart, and purchase books. Key features include user authentication, cart management, and order processing.
