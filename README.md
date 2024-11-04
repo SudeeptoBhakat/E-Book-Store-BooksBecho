@@ -1,6 +1,6 @@
 # Online Bookstore
 
-logo.png
+![BooksBecho Logo](logo.png)
 
 ## Description
 
